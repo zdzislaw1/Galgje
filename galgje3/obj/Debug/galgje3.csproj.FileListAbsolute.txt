@@ -1,0 +1,10 @@
+C:\Users\Zdzis\source\repos\galgje3\galgje3\bin\Debug\galgje3.exe.config
+C:\Users\Zdzis\source\repos\galgje3\galgje3\bin\Debug\galgje3.exe
+C:\Users\Zdzis\source\repos\galgje3\galgje3\bin\Debug\galgje3.pdb
+C:\Users\Zdzis\source\repos\galgje3\galgje3\obj\Debug\galgje3.csprojAssemblyReference.cache
+C:\Users\Zdzis\source\repos\galgje3\galgje3\obj\Debug\galgje3.Form1.resources
+C:\Users\Zdzis\source\repos\galgje3\galgje3\obj\Debug\galgje3.Properties.Resources.resources
+C:\Users\Zdzis\source\repos\galgje3\galgje3\obj\Debug\galgje3.csproj.GenerateResource.cache
+C:\Users\Zdzis\source\repos\galgje3\galgje3\obj\Debug\galgje3.csproj.CoreCompileInputs.cache
+C:\Users\Zdzis\source\repos\galgje3\galgje3\obj\Debug\galgje3.exe
+C:\Users\Zdzis\source\repos\galgje3\galgje3\obj\Debug\galgje3.pdb
